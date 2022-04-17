@@ -1,0 +1,10 @@
+.vscode
+dist
+public
+src/assets
+*.html
+*.css
+/*.json
+/*.js
+*.md
+*.lock

@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.enable": true,
+  "eslint.packageManager": "yarn",
+  "eslint.useESLintClass": false,
+  "eslint.lintTask.enable": false,
+  "eslint.codeAction.showDocumentation": {},
+  "eslint.format.enable": false,
+  "eslint.quiet": false
+}
